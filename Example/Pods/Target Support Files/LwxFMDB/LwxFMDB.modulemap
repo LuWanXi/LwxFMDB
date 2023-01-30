@@ -1,0 +1,6 @@
+framework module LwxFMDB {
+  umbrella header "LwxFMDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

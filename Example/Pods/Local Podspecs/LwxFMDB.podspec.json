@@ -1,0 +1,27 @@
+{
+  "name": "LwxFMDB",
+  "version": "0.1.0",
+  "summary": "A short description of LwxFMDB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LuWanXi/LwxFMDB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "鲁万玺": "513156879@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LuWanXi/LwxFMDB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LwxFMDB/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}
